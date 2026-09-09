@@ -44,8 +44,8 @@
 </div>
 
 <br>
-    <!-- Instagram -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; margin-top: 10px;">
+    <!-- Instagram -->
   <a href="https://instagram.com/nicolasvieira.1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
   </a>
