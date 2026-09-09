@@ -7,12 +7,12 @@ Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técni
 
 
    <p align="left">
-      <a href="https://github.com/NiasVl?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NiasVl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
-      <a href="https://github.com/NiasVl?tab=followers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NiasVl?color=FFD159&style=for-the-badge&labelColor=f1c232&logo=star&logoColor=grey"/></a>
-      <a  href="https://github.com/NiasVl">
-        <img alt="Watchers" title="watchers from GitHub" src="https://custom-icon-badges.demolab.com/github/watchers/NiasVl/NiasVl?logo=eye&style=for-the-badge&color=DCDCDC&labelColor=ffffff&logoColor=black">
+      <a href="https://github.com/nicolasVieira-dev?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nicolasVieira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
+      <a href="https://github.com/nicolasVieira-dev?tab=followers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nicolasVieira-dev?color=FFD159&style=for-the-badge&labelColor=f1c232&logo=star&logoColor=grey"/></a>
+      <a  href="https://github.com/nicolasVieira-dev">
+        <img alt="Watchers" title="watchers from GitHub" src="https://custom-icon-badges.demolab.com/github/watchers/nicolasVieira-dev/nicolasVieira-dev?logo=eye&style=for-the-badge&color=DCDCDC&labelColor=ffffff&logoColor=black">
    </p>
 
 ---
