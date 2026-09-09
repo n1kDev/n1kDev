@@ -96,12 +96,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     alt="GitHub Stats"
     height="150"  
     style="padding-right: 3px;"
-    src="https://github-readme-stats.vercel.app/api?username=NiasVL&show_icons=true&theme=highcontrast&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=nicolasVieira-dev&show_icons=true&theme=highcontrast&include_all_commits=true"
     />
 
 <img 
     align="left"
     alt="GitHub Stats"
     height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiasVL&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasVieira-dev&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=5"
     />
