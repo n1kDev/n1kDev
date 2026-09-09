@@ -1,91 +1,67 @@
-#  Nicolas Vieira
+##  Olá, prazer sou o n1kDev
 
-**`Desenvolvedor BackEnd`**
-
-Me chamo Nicolas VIeira, Tenho 19 anos e sou natural de São Paulo.
-Estou cursando atualmente ADS (Análise e desenvolvimento de sistemas). Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu perfil do Instagram: "[nicolasvieira.1](https://www.instagram.com/nicolasvieira.1?igsh=MXRpNjFudWRqNndhag==)".
-
-
-   <p align="left">
-      <a href="https://github.com/nicolasVieira-dev?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/nicolasVieira-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
-      <a href="https://github.com/nicolasVieira-dev?tab=followers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nicolasVieira-dev?color=FFD159&style=for-the-badge&labelColor=f1c232&logo=star&logoColor=grey"/></a>
-      <a  href="https://github.com/nicolasVieira-dev">
-        <img alt="Watchers" title="watchers from GitHub" src="https://custom-icon-badges.demolab.com/github/watchers/nicolasVieira-dev/nicolasVieira-dev?logo=eye&style=for-the-badge&color=DCDCDC&labelColor=ffffff&logoColor=black">
-   </p>
-
----
-
-### ⚡Techs:
-
-<img
-    align="left"
-    alt="HTML"
-    width="40px"
-    style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-
-<img 
-    align="left"
-    alt="CSS"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-         
-<img 
-    align="left"
-    alt="Javascript"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    align="left"
-    alt="Nodejs"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-
-<img 
-    align="left"
-    alt="PHP"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-          
-
-<img 
-    align="left"
-    alt="MySql"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-
-<img 
-    align="left"
-    alt="Express"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-          
-<img 
-    align="left"
-    alt="Git"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-          
-<img 
-    align="left"
-    alt="GitHub"
-    width="40px"
-    style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  - 📖 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+  - ✨ Futuro Dev Back-End ou FullStack
+  - 🪴 Me especializando em Java
+  - 📨 Email para contato: nicolasvieiractt@gmail.com
+  - 🙂 pronouns: ele/dele
 
 
 
-<br/>
-<br/>
+# ⚡Techs:
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+        <img align="center" alt="n1k-Csharp" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+        <!-- TypeScript -->
+        <img align="center" alt="n1k-Ts" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <!-- JavaScript -->
+        <img align="center" alt="n1k-Js" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <!-- Tailwind -->
+        <img align="center" alt="n1k-Tailwind" height="36" width="36"
+        src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+        <!-- HTML -->
+        <img align="center" alt="n1k-HTML" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <!-- Python -->
+        <img align="center" alt="n1k-Python" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+        <!-- Java -->
+        <img align="center" alt="n1k-Java" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <!-- REST -->
+        <img align="center" alt="n1k-REST" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
+        <!-- C -->
+        <img align="center" alt="n1k-C" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </div>
+  
+  <img alt="n1k-yoda"
+    src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+
+</div>
+
+<br>
+    <!-- Instagram -->
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+  <a href="https://instagram.com/nicolasvieira.1" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
+  </a> 
+    <!-- Discord -->
+ <a href="https://discord.com/users/nik08._08" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-nik08._08-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de nik08._08">
+  </a>
+
+  <a href="https://www.linkedin.com/in/nicolas-v1eira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+
+
+</div>
+
 
