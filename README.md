@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Nicolas VIeira, Tenho 18 anos e sou natural de São Paulo.
-Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técnico em informática. Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu prefil do Instagram chamado "[nicolas._.vieira](https://www.instagram.com/nicolas._.vieira?igsh=MXRpNjFudWRqNndhag==)".
+Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técnico em informática. Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu prefil do Instagram chamado "[nicolas._.vieira](https://www.instagram.com/nicolasvieira.1?igsh=MXRpNjFudWRqNndhag==)".
 
 
    <p align="left">
@@ -89,19 +89,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <br/>
 <br/>
 
-### 📊 Stats
-
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="150"  
-    style="padding-right: 3px;"
-    src="https://github-readme-stats.vercel.app/api?username=nicolasVieira-dev&show_icons=true&theme=highcontrast&include_all_commits=true"
-    />
-
-<img 
-    align="left"
-    alt="GitHub Stats"
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasVieira-dev&theme=highcontrast&layout=compact&custom-title=Tecnologias&langs_count=5"
-    />
