@@ -1,9 +1,9 @@
-#  🧑🏿‍💻 Nicolas Vieira
+#  Nicolas Vieira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor BackEnd`**
 
-Me chamo Nicolas VIeira, Tenho 18 anos e sou natural de São Paulo.
-Estou concluíndo o ensino médio na E.T.E.C Cidade Tiradentes, com curso técnico em informática. Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu prefil do Instagram chamado "[nicolasvieira.1](https://www.instagram.com/nicolasvieira.1?igsh=MXRpNjFudWRqNndhag==)".
+Me chamo Nicolas VIeira, Tenho 19 anos e sou natural de São Paulo.
+Estou cursando atualmente ADS (Análise e desenvolvimento de sistemas). Eu gosto muito de programar e me interesso muito por tecnologia. As vezes compartilho experiências de vida que eu tive no meu perfil do Instagram: "[nicolasvieira.1](https://www.instagram.com/nicolasvieira.1?igsh=MXRpNjFudWRqNndhag==)".
 
 
    <p align="left">
