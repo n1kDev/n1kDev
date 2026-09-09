@@ -12,14 +12,12 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
   <div style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-        <img align="center" alt="n1k-Csharp" height="36" width="36"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-        <!-- TypeScript -->
-        <img align="center" alt="n1k-Ts" height="36" width="36"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <!-- JavaScript -->
         <img align="center" alt="n1k-Js" height="36" width="36"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <!-- TypeScript -->
+        <img align="center" alt="n1k-Ts" height="36" width="36"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
         <!-- Tailwind -->
         <img align="center" alt="n1k-Tailwind" height="36" width="36"
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
@@ -55,7 +53,7 @@
  <a href="https://discord.com/users/nik08._08" target="_blank">
     <img src="https://img.shields.io/badge/Discord-nik08._08-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de nik08._08">
   </a>
-
+    <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/nicolas-v1eira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
