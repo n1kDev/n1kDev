@@ -45,10 +45,10 @@
 
 <br>
     <!-- Instagram -->
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; margin-top: 10px; width: 100%;">
   <a href="https://instagram.com/nicolasvieira.1" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram">
-  </a> 
+  </a>
     <!-- Discord -->
  <a href="https://discord.com/users/nik08._08" target="_blank">
     <img src="https://img.shields.io/badge/Discord-nik08._08-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord de nik08._08">
@@ -57,9 +57,6 @@
   <a href="https://www.linkedin.com/in/nicolas-v1eira" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-
-
-
 </div>
 
 
