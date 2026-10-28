@@ -34,9 +34,11 @@
         <img align="center" alt="n1k-REST" height="36" width="36"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
         <!-- C -->
-        <img align="center" alt="n1k-C" height="36" width="36" </img>
-       
-  </div>
+        <img align="center" alt="n1k-C" he ight="36" width="36"
+
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+</div>
   
     src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 
