@@ -38,7 +38,6 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
   
-  <img alt="n1k-yoda"
     src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 
 </div>
