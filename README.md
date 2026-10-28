@@ -2,7 +2,7 @@
 
   - 📖 Cursando Análise e Desenvolvimento de Sistemas (ADS)
   - ✨ Futuro Dev Back-End ou FullStack
-  - 🪴 Me especializando em Java
+  - 🪴 Aperfeiçoando meu JavaScript
   - 📨 Email para contato: nicolasvieiractt@gmail.com
   - 🙂 pronouns: ele/dele
 
