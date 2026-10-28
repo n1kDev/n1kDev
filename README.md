@@ -34,9 +34,7 @@
         <img align="center" alt="n1k-REST" height="36" width="36"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
         <!-- C -->
-        <img align="center" alt="n1k-C" he ight="36" width="36"
-
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+        <img align="center" alt="n1k-C" he ight="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 </div>
 
